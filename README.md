@@ -55,6 +55,7 @@ Failures are attributed to one or more of the following modes:
 - Random Failures
 
 **Important**: Targets are not used as features to avoid data leakage.
+**Dataset is from kaggle**: [https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification]
 
 ---
 
